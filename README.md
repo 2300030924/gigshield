@@ -1,6 +1,6 @@
-# 🚀 GigShield – AI-Powered Parametric Insurance for Gig Workers
+#  GigShield – AI-Powered Parametric Insurance for Gig Workers
 
-## 📌 Overview
+##  Overview
 
 GigShield is an AI-driven parametric insurance platform designed to protect gig delivery workers from income loss caused by environmental disruptions such as heavy rainfall, pollution, and extreme weather.
 
@@ -8,15 +8,15 @@ Unlike traditional insurance systems, GigShield enables **real-time, automated p
 
 ---
 
-## ❗ Problem Statement
+##  Problem Statement
 
 Gig workers (Zomato, Swiggy, Amazon, Dunzo, etc.) rely on daily deliveries for income.
 
 However, external factors like:
-- 🌧️ Heavy rain  
-- 🌡️ Heatwaves  
-- 🌫️ Air pollution  
-- 🚨 Natural disasters  
+-  Heavy rain  
+-  Heatwaves  
+-  Air pollution  
+-  Natural disasters  
 
 can reduce deliveries by **20–30%**, directly impacting their earnings.
 
@@ -27,20 +27,20 @@ can reduce deliveries by **20–30%**, directly impacting their earnings.
 
 ---
 
-## 🎯 Solution
+##  Solution
 
 GigShield provides a **smart, automated insurance system** that:
 
-- 💰 Collects micro-premiums per delivery  
-- 🤖 Builds a behavioral profile (digital twin)  
-- 🌦️ Monitors environmental conditions  
-- ⚡ Detects disruptions automatically  
-- 💸 Triggers instant payouts  
-- 🛡️ Prevents fraud using multi-layer detection  
+-  Collects micro-premiums per delivery  
+-  Builds a behavioral profile (digital twin)  
+-  Monitors environmental conditions  
+-  Detects disruptions automatically  
+-  Triggers instant payouts  
+-  Prevents fraud using multi-layer detection  
 
 ---
 
-## 🔄 System Workflow
+##  System Workflow
 Rider joins platform
 ↓
 Behavioral data collected
@@ -63,7 +63,7 @@ Fraud detection validation
 
 ---
 
-## 💰 Premium Model
+##  Premium Model
 
 ### Dynamic Micro-Premium
 
@@ -80,7 +80,7 @@ Fraud detection validation
 
 ---
 
-## ⚡ Parametric Trigger Engine
+##  Parametric Trigger Engine
 
 ### Trigger Conditions:
 - Heavy rainfall  
@@ -94,15 +94,15 @@ If:
 - Delivery drop > **25%**
 - AND environmental trigger active  
 
-👉 **Payout is automatically triggered**
+ **Payout is automatically triggered**
 
-### 💸 Payout Formula:
+###  Payout Formula:
 Payout = 80% × (Expected Earnings − Actual Earnings)
 
 
 ---
 
-## 🤖 AI Components
+##  AI Components
 
 ### 1. Behavioral Profiling (Digital Twin)
 - Average deliveries  
@@ -125,28 +125,28 @@ Payout = 80% × (Expected Earnings − Actual Earnings)
 
 ---
 
-### 4. Fraud Detection System (Key Feature 🔥)
+### 4. Fraud Detection System (Key Feature )
 
 #### Multi-Layer Detection:
 
-**📍 Location Consistency**
+** Location Consistency**
 - GPS vs cell tower mismatch  
 
-**🚴 Motion Analysis**
+** Motion Analysis**
 - Detects unrealistic movement  
 
-**📱 Activity Verification**
+** Activity Verification**
 - App usage & order tracking  
 
-**🌐 Network Intelligence**
+** Network Intelligence**
 - IP vs location mismatch  
 
-**👥 Cluster Detection**
+** Cluster Detection**
 - Identifies coordinated fraud groups  
 
 ---
 
-### 🧮 Fraud Score Output:
+###  Fraud Score Output:
 
 | Score Range | Status       |
 |------------|-------------|
@@ -156,27 +156,27 @@ Payout = 80% × (Expected Earnings − Actual Earnings)
 
 ---
 
-## 🧠 Decision Engine
+##  Decision Engine
 
-- ✅ Legit → Instant payout  
-- ⚠️ Suspicious → Delayed payout  
-- ❌ Fraud → Block payout  
-
----
-
-## 🖥️ MVP Features
-
-- 📊 Dashboard with rider insights  
-- 🌦️ Scenario simulation (Normal / Rain / Fraud)  
-- 💰 Premium tracking  
-- ⚡ Trigger detection  
-- 💸 Automated payouts  
-- 🚨 Fraud alerts  
-- 📈 Data visualization (charts & metrics)  
+-  Legit → Instant payout  
+-  Suspicious → Delayed payout  
+-  Fraud → Block payout  
 
 ---
 
-## 🛠️ Tech Stack
+##  MVP Features
+
+-  Dashboard with rider insights  
+-  Scenario simulation (Normal / Rain / Fraud)  
+-  Premium tracking  
+-  Trigger detection  
+-  Automated payouts  
+-  Fraud alerts  
+-  Data visualization (charts & metrics)  
+
+---
+
+##  Tech Stack
 
 ### Frontend
 - React / Vite  
@@ -200,17 +200,17 @@ Payout = 80% × (Expected Earnings − Actual Earnings)
 
 ---
 
-## 🎯 Key Highlights
+##  Key Highlights
 
-- ⚡ Real-time automated payouts  
-- 🤖 AI-driven decision making  
-- 🛡️ Multi-layer fraud detection  
-- 📊 Transparent and explainable system  
-- 💡 Designed specifically for gig economy  
+-  Real-time automated payouts  
+-  AI-driven decision making  
+-  Multi-layer fraud detection  
+-  Transparent and explainable system  
+-  Designed specifically for gig economy  
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 GigShield introduces a **scalable, intelligent, and fair insurance system** for gig workers.
 
@@ -220,7 +220,7 @@ By combining:
 - Peer validation  
 - Fraud detection  
 
-👉 It ensures **accurate compensation + strong fraud prevention**
+ It ensures **accurate compensation + strong fraud prevention**
 
 This makes it a **practical and impactful solution** for securing the financial stability of gig workers.
 
