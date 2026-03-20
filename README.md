@@ -74,9 +74,9 @@ Fraud detection validation
   - Rider activity
 
 ### Why this works:
-- ✔ Aligns with gig income model  
-- ✔ No upfront cost  
-- ✔ Fair and flexible  
+-  Aligns with gig income model  
+-  No upfront cost  
+-  Fair and flexible  
 
 ---
 
